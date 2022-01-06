@@ -22,3 +22,15 @@ C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\o
 C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorTargetAssemblyInfo.cs
 C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Documentos\cursoC#\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
